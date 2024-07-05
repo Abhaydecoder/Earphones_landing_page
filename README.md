@@ -14,3 +14,10 @@ Simple and secure contact form for inquiries and support.
 # Technologies Used
 HTML5: For structuring the content of the landing page.
 CSS3: To style the page and create responsive layouts.
+# Preview
+![Screenshot 2024-07-06 001424](https://github.com/Abhaydecoder/Earphones_landing_page/assets/142339100/54963f7e-f013-40b5-94de-674894f96c12)
+
+![Screenshot 2024-07-06 001447](https://github.com/Abhaydecoder/Earphones_landing_page/assets/142339100/10b5cabc-2a6f-49c8-a6c3-8c7b069a94f8)
+
+![Screenshot 2024-07-06 001447](https://github.com/Abhaydecoder/Earphones_landing_page/assets/142339100/b73089ce-641a-48b6-9104-9a6da5981a1f)
+
