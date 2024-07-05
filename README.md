@@ -11,6 +11,6 @@ Includes animations and hover effects to create an interactive user experience.
 High-quality images and detailed descriptions for each earphone model.
 # Contact Form:
 Simple and secure contact form for inquiries and support.
-# # Technologies Used
+# Technologies Used
 HTML5: For structuring the content of the landing page.
 CSS3: To style the page and create responsive layouts.
