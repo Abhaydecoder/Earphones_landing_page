@@ -1,5 +1,5 @@
-# Earphones_landing_page
-Welcome to the Earphone Landing Page repository! This project is dedicated to creating a sleek, modern, and fully responsive landing page for showcasing a range of earphones. The landing page is designed to highlight the features, benefits, and specifications of the earphones.
+# Headphones_landing_page
+Welcome to the Headphone Landing Page repository! This project is dedicated to creating a sleek, modern, and fully responsive landing page for showcasing a range of earphones. The landing page is designed to highlight the features, benefits, and specifications of the earphones.
 # Features
 # Responsive Design:
 Optimized for all devices, ensuring a seamless experience on desktops, tablets, and smartphones.
